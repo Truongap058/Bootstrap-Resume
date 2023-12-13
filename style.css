@@ -1,0 +1,58 @@
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    color: #d41515; /* Red color */
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #d41515; /* Red color */
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+h1, h2, h3 {
+    color: #6200ff; /* Red color */
+}
+
+h2 {
+    border-bottom: 2px solid #6200ff; /* Red color */
+    padding-bottom: 5px;
+}
+
+ul {
+    list-style-type: square;
+    margin-left: 20px;
+}
+
+.experience {
+    margin-top: 20px;
+}
+
+.experience p {
+    margin-bottom: 10px;
+}
+
+.contact-info {
+    margin-top: 20px;
+}
+
+.contact-info a {
+    color: #d41515; /* Red color */
+}
+
+.skills {
+    margin-top: 20px;
+}
+
+.activities {
+    margin-top: 20px;
+}
+
+.activities ul {
+    list-style-image: url('bullet.png'); /* Replace 'bullet.png' with your custom image */
+    margin-left: 20px;
+}
